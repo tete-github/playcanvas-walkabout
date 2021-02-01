@@ -10,4 +10,5 @@ Rotate by bare hand pinching or pressing the "grip" button on a controller.
 
 Test it [here](https://www.timatimak.eu/experiments/playcanvas-walkabout/index.html).
 
-[my StackOverflow question](https://stackoverflow.com/questions/65705697/how-to-control-camera-rig-orientation-with-optically-tracked-pinch-in-a-frame)
+[my question](https://forum.playcanvas.com/t/do-i-rotate-an-xr-camera-the-right-way/17321)
+ on the Playcanvas forum
