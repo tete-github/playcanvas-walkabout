@@ -10,4 +10,4 @@ Rotate by pressing the "grip" button on a controller.
 
 [Try it yourself](https://www.timatimak.eu/experiments/playcanvas-walkabout/index.html).
 
-[My question](https://forum.playcanvas.com/t/do-i-rotate-an-xr-camera-the-right-way/17321) about it on the Playcanvas forum
+[My question](https://forum.playcanvas.com/t/do-i-rotate-an-xr-camera-the-right-way/17321) about it on Playcanvas forum
